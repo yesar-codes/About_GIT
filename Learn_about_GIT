@@ -1,2 +1,19 @@
 What is GIT?
 GIT is a version control system,which is helpful for team work in a company. Every Developer works on a project and posts in on GIT so that everyone can work on it. 
+And other developer gets to know about the update so they can pull the stuff again and work on the stuff further. It helps to keep track who is changing the code, share the code,
+go back to the older version. Also it helps to work in a collaborative environment. 
+
+What do you understand by Version Control System?
+Whenever a project is updated by developer a new Version is created. Like whenever the product is released for the client he uses and checks it and if he wants some 
+changes in the program then he tells the developer that these changes he want in the product so can you update this so the developer updates the code and releases version 2. 
+So we have to keep track of the codes the old ones and the new ones because we dont know what the client really wants. After giving him the new update mightbe he wont
+be satisfied with the new one and he want the old one only so the old code should also be saved at some location. So Version Control system is a system which is useful 
+for tracking code changes and tracking who made changes like the history of file and to collab the codes of different developers at a specific place so they can work together. 
+
+What is GitHub?
+Github is a repository where all the code are pushed in. And it is known as the largest source code in the world, in other words it is used to maintain the source code of the project. 
+
+Mention some most popular git hosting services?
+Some popular git hosting services are Github, Gitlab,Gitblit,BitBucket. 
+
+
