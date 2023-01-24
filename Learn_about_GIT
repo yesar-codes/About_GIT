@@ -17,8 +17,13 @@ Mention some most popular git hosting services?
 Some popular git hosting services are Github, Gitlab,Gitblit,BitBucket.
 
 Different types of version control systems?
+There are 2 types of version control systems -> Centralized Version Control System and Distributed Version Control System. 
+Centralized Version Control system has a main server which is directly connected with the developers pc, so it has a few flaws if there is any error in hard disk of main server and all the data that we committed is now 0.
+Also we always require internet to commit always so it has a lot of dependency. Some examples of Centralized Control Systems are Perforce,subversion.  
+In Distributed Control System the people are provided with their own repository which is connected to main server, that 
 
 What benefits come with using GIT?
+
 
 What is GIT repository?
 
