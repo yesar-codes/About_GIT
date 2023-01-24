@@ -23,8 +23,15 @@ Also we always require internet to commit always so it has a lot of dependency. 
 In Distributed Control System the people are provided with their own repository which is connected to main server, that 
 
 What benefits come with using GIT?
-
+By using GIT we can 
+1) keep the track on the code changes.
+2) We can track which developer changed the code, by that we can keep in track the history of code.
+3) GIT is used for coding collaborations.
 
 What is GIT repository?
+GIT Repository is the remote repository in which all the files can be pushed from the local repository to GIT Repository. In Git Repository all the files from all the developers
+are pushed in and by that whole project is collected at a particular place. And whenever other developer need the files from other developer to work further then he can pull it and work on it further.
+The file in the git Repository wouldnt be changed if he works on that project too and when he push again then a new copy of the project will be uploaded on the GIT without affecting the old one. 
 
 How can you initialize a repository in GIT?
+git init command is used to initialize a new repository in in GIT. Best way to use this command is through GIT Bash. 
